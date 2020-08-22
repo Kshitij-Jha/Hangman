@@ -139,16 +139,4 @@ while not gameover:
     
     elif taken_attempts == available_attempts:
         print("\nYou lost. Hangman is hanged. ¯\_(ツ)_/¯ \n")
-        gameover = True
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+        gameover = True 
